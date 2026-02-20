@@ -1,0 +1,1 @@
+This repository contains a modular computer vision system developed as part of the TRSA (Robotics and Industrial Automation) curriculum at NOVA SST. The project focuses on building a robust camera-to-processing pipeline using ROS 2 Humble and OpenCV to perform real-time sensing, calibration, and object detection.
